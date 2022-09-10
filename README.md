@@ -59,6 +59,10 @@ The function `[posterior, logEvidence] = main()` will generate artificial data, 
 - Geyer, C. J. (2011). Introduction to markov chain monte carlo. Handbook of markov chain monte carlo, 20116022, 45.
 - Andrieu, C., De Freitas, N., Doucet, A., & Jordan, M. I. (2003). An introduction to MCMC for machine learning. Machine learning, 50(1-2), 5-43.
 
+#### Deep Inference
+
+- Nolan, S., Smerzi, A. & Pezzè, L. (2021). Machine learning approach to Bayesian parameter estimation. npj Quantum Inf 7, 169 
+
 ### Model selection
 
 - Friel, N., & Wyse, J. (2012). Estimating the evidence–a review. Statistica Neerlandica, 66(3), 288-308.
